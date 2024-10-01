@@ -1,0 +1,15 @@
+http://localhost:3000/produtorio?m=2&n=5&metodo=iterativa
+
+Valor retornado:
+
+{
+    "resultado": 184.16666666666669
+}
+
+http://localhost:3000/produtorio?m=2&n=5&metodo=recursiva
+
+Valor retornado:
+
+{
+    "resultado": 184.16666666666669
+}
